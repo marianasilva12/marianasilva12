@@ -25,7 +25,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       
       - name: Push to output branch
-        uses: crazy-max/ghaction-upload-artifact@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          name: github-contribution-grid-snake-svg
-          path: dist
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
