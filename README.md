@@ -37,3 +37,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marianasilva12&show_icons=true&theme=radical&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marianasilva12/marianasilva12/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
