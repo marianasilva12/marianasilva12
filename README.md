@@ -35,12 +35,9 @@
 
 ### 📊 Estatísticas do GitHub
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marianasilva12&show_icons=true&theme=radical&hide_border=true" />
-</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marianasilva12/marianasilva12/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-<div align="right">
- <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R1d2ppMmR1b2d3cWJ3YWp3eGNtdmh0eHN0dXhybWJub3l4ZTNpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIPfTy8y1Lc5iREYDS/giphy.gif" width="220" alt="Let Him Cook Bear GIF">
+  <video width="360" height="auto" controls autoplay loop muted>
+    <source src="SEU-LINK-DO-VIDEO.mp4" type="video/mp4">
+    Seu navegador não suporta a tag de vídeo.
+  </video>
 </p>
