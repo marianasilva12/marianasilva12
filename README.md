@@ -41,5 +41,6 @@
   <img src="https://raw.githubusercontent.com/marianasilva12/marianasilva12/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 <div align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R1d2ppMmR1b2d3cWJ3YWp3eGNtdmh0eHN0dXhybWJub3l4ZTNpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIPfTy8y1Lc5iREYDS/giphy.gif" width="220" alt="Let Him Cook" style="position: fixed; bottom: 20px; right: 20px; z-index: 999; border-radius: 10px;">
-</div>
+ <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R1d2ppMmR1b2d3cWJ3YWp3eGNtdmh0eHN0dXhybWJub3l4ZTNpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIPfTy8y1Lc5iREYDS/giphy.gif" width="220" alt="Let Him Cook Bear GIF">
+</p>
