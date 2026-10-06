@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou a Mariana! 👋</h1>
+<h1 align="center">Olá, eu sou o [Seu Nome]! 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedora Front-End</b> apaixonada por criar interfaces modernas e funcionais.
+  <b>Desenvolvedor Front-End</b> apaixonado por criar interfaces modernas e funcionais.
 </p>
 
 ---
@@ -35,6 +35,9 @@
 
 ### 📊 Estatísticas do GitHub
 <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_border=true" />
+</p>
+![Cobrinha do GitHub](https://raw.githubusercontent.com/marianasilva12/marianasilva12/output/github-contribution-grid-snake.svg)
 <p align="center">
   <video width="360" height="auto" controls autoplay loop muted>
     <source src="SEU-LINK-DO-VIDEO.mp4" type="video/mp4">
