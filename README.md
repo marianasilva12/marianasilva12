@@ -9,9 +9,7 @@
 </p>
 
 ## Olá! Sou a Mariana, profissional de TI com foco em desenvolvimento, suporte e automação de processos
-<p align="center">
-  <img height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDAydjc2cGZsdWw4a2p1d2g2MGRjMmNobmYxeHh3cjdmZjd0eXI2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToQqmXCkJZG0MUlYJe/giphy.gif" alt="GIF animado" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marianasilva12&show_icons=true&include_all_commits=true&theme=dracula" height="170" />
