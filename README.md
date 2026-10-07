@@ -11,8 +11,8 @@
 ## Olá! Sou a Mariana, profissional de TI com foco em desenvolvimento, suporte e automação de processos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&include_all_commits=true&theme=dracula" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU-USUARIO&layout=compact&card_width=320&langs_count=5&theme=dracula" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marianasilva12&show_icons=true&include_all_commits=true&theme=dracula" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianasilva12&layout=compact&card_width=320&langs_count=5&theme=dracula" height="170" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Marianasilva20a@gmail.com)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/marianasilva12/marianasilva12/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
